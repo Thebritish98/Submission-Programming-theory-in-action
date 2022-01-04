@@ -5,7 +5,7 @@ using UnityEngine;
 public class ShapePicker : MonoBehaviour
 {
     public enum Shapes{
-        CIRCLE,CUBE
+        SPHERE,CUBE
     }
     public string[] AvailableShapes;
     public string SelectedShape{get;private set;}

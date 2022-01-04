@@ -629,7 +629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AvailableShapes:
   - CUBE
-  - CIRCLE
+  - SPHERE
   ShapeButtonPrefab: {fileID: 65785185434207308, guid: 5a9669b5a4129174fa2ed3f4ae0ddc26, type: 3}
 --- !u!1 &705507993
 GameObject:
@@ -1959,7 +1959,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: launch
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

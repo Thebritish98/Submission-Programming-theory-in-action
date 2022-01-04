@@ -36,10 +36,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\ShapePicker.cs" />
-     <Compile Include="Assets\Script\ShapeButton.cs" />
-     <Compile Include="Assets\Script\MenuUIHandler.cs" />
      <Compile Include="Assets\Script\MainManager.cs" />
+     <Compile Include="Assets\Script\Shape.cs" />
+     <Compile Include="Assets\Script\ShapePicker.cs" />
+     <Compile Include="Assets\Script\MenuUIHandler.cs" />
+     <Compile Include="Assets\Script\ShapeButton.cs" />
+     <Compile Include="Assets\Script\powerup.cs" />
+     <Compile Include="Assets\Script\Cube.cs" />
+     <Compile Include="Assets\Script\Sphere.cs" />
+     <Compile Include="Assets\Script\Entity.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
